@@ -157,7 +157,7 @@ config/Database.php
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ayaalsaudi6-blip/FixHub.git
+git clone https://github.com/mohammedarabiat2003-ux/FixHub.git
 ```
 
 ### 2. Move the Project
