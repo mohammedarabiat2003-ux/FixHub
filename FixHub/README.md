@@ -199,7 +199,7 @@ http://localhost/FixHub/
 
 ## Author
 
-**Aya Alsaudi**
+**Mohammad arabiat**
 
 [GitHub](https://github.com/ayaalsaudi6-blip)
 
