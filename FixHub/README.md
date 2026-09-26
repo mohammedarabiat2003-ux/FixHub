@@ -157,7 +157,7 @@ config/Database.php
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ayaalsaudi6-blip/FixHub.git
+git clone https://github.com/mohammedarabiat2003-ux/FixHub.git
 ```
 
 ### 2. Move the Project
@@ -195,12 +195,12 @@ http://localhost/FixHub/
 
 ## GitHub
 
-[View FixHub Repository](https://github.com/ayaalsaudi6-blip/FixHub)
+[View FixHub Repository](https://github.com/mohammedarabiat2003-ux/FixHub)
 
 ## Author
 
-**Aya Alsaudi**
+**Mohammad arabiat**
 
-[GitHub](https://github.com/ayaalsaudi6-blip)
+[GitHub](https://github.com/mohammedarabiat2003-ux)
 
-[LinkedIn](https://linkedin.com/in/aya-alsaudi-3a60b733b)
+[LinkedIn](http://www.linkedin.com/in/mohammed-arabiat-ba863934b)
